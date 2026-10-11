@@ -1,4 +1,4 @@
-![image Alt](https://drive.google.com/file/d/12ZHs3lSWogfmsNc7iCG9ux-KuC9CmUu0/view?usp=drivesdk)
+
 <img width="731" height="583" alt="image" 
 src="https://github.com/tsuw3ixaya/-.-/blob/00753e25fde4ea8d271ae1e459678bb60595d22b/Eee.jpg" />
 .
