@@ -1,7 +1,8 @@
 ![image Alt](https://private-user-images.githubusercontent.com/289147345/670919816-2fe49973-a107-46b4-b36d-3db680f4950d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTE3NTcwMzAsIm5iZiI6MTc5MTc1NjczMCwicGF0aCI6Ii8yODkxNDczNDUvNjcwOTE5ODE2LTJmZTQ5OTczLWExMDctNDZiNC1iMzZkLTNkYjY4MGY0OTUwZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYxMDExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MTAxMVQyMjEyMTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYWI5OTJiNzI1YmRmODFlYzAzZWNhNDk3MWNiZDhjNTJlOTZiMGVlZWE1MTYzZDk1YjFlNTE0MzNmOGQ3MTg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZwbmcifQ.8V3_ZfNlMOzs0aIVFAOjYKlt2vBfvowjJq3Vem63m10)
-<img width="731" height="583" alt="image" src="https://github.com/tsuw3ixaya/-.-/blob/00753e25fde4ea8d271ae1e459678bb60595d22b/Eee.jpg" />
+<img width="731" height="583" alt="image" 
+src="https://github.com/tsuw3ixaya/-.-/blob/00753e25fde4ea8d271ae1e459678bb60595d22b/Eee.jpg" />
+![image Alt](https://drive.google.com/file/d/12ZHs3lSWogfmsNc7iCG9ux-KuC9CmUu0/view?usp=drivesdk)
 .
-https://drive.google.com/file/d/12ZHs3lSWogfmsNc7iCG9ux-KuC9CmUu0/view?usp=drivesdk
 *tsuw3ixaya/tsuw3ixaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
